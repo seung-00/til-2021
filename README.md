@@ -12,8 +12,8 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 * [TIL](https://www.notion.so/TIL-ccb6391dfe6a4e15a45bbc02764260ba)
   * [Database](https://www.notion.so/43af68d39c864d53b0b03850e1032165) 
-
-  * [Computer Architecture](https://www.notion.so/7c3c906c8db04905be7e0e9e90ccc8a4)
+* [Computer Architecture](https://www.notion.so/7c3c906c8db04905be7e0e9e90ccc8a4)
+  * [Javascript](https://www.notion.so/c0c640e8a2094206b499f70e9d35d9eb?v=2895a1416b6d49e685c758eb76b1b62f)
 
 
 ---
@@ -29,3 +29,8 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ---
 
+### Javascript
+
+* [var, let, const](https://www.notion.so/var-let-const-bcf4d75c96de4e16a31bb4944ae2e716)
+* [hoisting](https://www.notion.so/hoisting-9bfbfadf8eef445f9bbbf13aec83ae99)
+* [closure](https://www.notion.so/closure-6b77f34770d449bfa7db60fe206f0d68)
