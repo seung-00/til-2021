@@ -11,11 +11,30 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### Categories
 
 * [TIL](https://www.notion.so/TIL-ccb6391dfe6a4e15a45bbc02764260ba)
-  * [Database](https://www.notion.so/43af68d39c864d53b0b03850e1032165) 
   * [Computer Architecture](https://www.notion.so/7c3c906c8db04905be7e0e9e90ccc8a4)
+  * [Operating System](https://www.notion.so/b2d7994ec92b4deeb61fdc148e5e0f03?v=b77fb016c58e4da18ef05828392e6c34)
+  * [Database](https://www.notion.so/43af68d39c864d53b0b03850e1032165)
   * [Web](https://www.notion.so/e794b3cf63b940b38ec3096a0cd3f218?v=51a8923cde7940288f2e3cc476087afe)
   * [Javascript](https://www.notion.so/c0c640e8a2094206b499f70e9d35d9eb?v=2895a1416b6d49e685c758eb76b1b62f)
   * [React](https://www.notion.so/071e4cd57f2344d1a776f8cc03dbaec2?v=62366be9494f4963aae1dcaaf6500d6a)
+  * [Cloud](https://www.notion.so/2a27366dfa9240469fdc47f191c2bf24?v=2c8d4701f0cd44648f05f69749d49cad)
+
+
+---
+
+### Computer Architecture
+
+* [Performance](https://www.notion.so/Performance-ab00ecc6726040479f8a62985f99e602)
+* [ISA #1](https://www.notion.so/ISA-1-744fb9d1723544ca86ebd67fb3923a95)
+* [ISA #2](https://www.notion.so/ISA-2-6fef40e933bc4c47a9ed8d26549b87e8)
+* [ISA #3](https://www.notion.so/ISA-3-a13fea45769a4a4f8fed7aad870d2a9c)
+* [ISA #4](https://www.notion.so/ISA-4-f7d255d714394b9dbc18d9c4fa4bc17a)
+* [Single-Cycle Processor](https://www.notion.so/Single-Cycle-Processor-0b8b720be9a5423c8c6c99c14ffe0844)
+
+---
+
+### Operating System
+
 
 
 ---
@@ -31,6 +50,13 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ---
 
+### Web
+
+* [Critical Rendering Path 1](https://www.notion.so/Critical-Rendering-Path-1-f497d63b474e4c5aab03c92a83e3e652)
+* [Critical Rendering Path 2](https://www.notion.so/Critical-Rendering-Path-2-48560b2180f742a6bbf1fef30b237a0e)
+
+---
+
 ### Javascript
 
 * [var, let, const](https://www.notion.so/var-let-const-bcf4d75c96de4e16a31bb4944ae2e716)
@@ -39,17 +65,15 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ---
 
-### Web
+### React
 
-* [Critical Rendering Path](https://www.notion.so/Critical-Rendering-Path-f497d63b474e4c5aab03c92a83e3e652)
+* [리액트란?](https://www.notion.so/370c2ef5504d499eba9ad258833aa93c)
 
 ---
 
-### React
+### Cloud
 
-
-
-### OS
+* [클라우드  컴퓨팅의 정의](https://www.notion.so/91da54fcb7e94979bb7736125b81572d)
 
 
 
