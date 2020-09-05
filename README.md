@@ -59,6 +59,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ### Javascript
 
+* [scope](https://www.notion.so/scope-b5c1743ba8274337b6fd37879c0e403c)
 * [var, let, const](https://www.notion.so/var-let-const-bcf4d75c96de4e16a31bb4944ae2e716)
 * [hoisting](https://www.notion.so/hoisting-9bfbfadf8eef445f9bbbf13aec83ae99)
 * [closure](https://www.notion.so/closure-6b77f34770d449bfa7db60fe206f0d68)
@@ -68,12 +69,13 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### React
 
 * [리액트란?](https://www.notion.so/370c2ef5504d499eba9ad258833aa93c)
+* [SPA, CSR, SSR](https://www.notion.so/SPA-CSR-SSR-c3033ff016de428f9f9d82701940db15)
 
 ---
 
 ### Cloud
 
-* [클라우드  컴퓨팅의 정의](https://www.notion.so/91da54fcb7e94979bb7736125b81572d)
+* [클라우드 컴퓨팅의 정의](https://www.notion.so/91da54fcb7e94979bb7736125b81572d)
 
 
 
