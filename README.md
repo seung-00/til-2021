@@ -69,6 +69,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### React
 
 * [리액트란?](https://www.notion.so/370c2ef5504d499eba9ad258833aa93c)
+* [create-react-app](https://www.notion.so/create-react-app-b24bc2dc00944e78be2706feda1ae19e)
 * [SPA, CSR, SSR](https://www.notion.so/SPA-CSR-SSR-c3033ff016de428f9f9d82701940db15)
 * [Hook](https://www.notion.so/eb76861b0c924f88aa084dc3e4822e05)
 
