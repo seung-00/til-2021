@@ -78,6 +78,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### Cloud
 
 * [클라우드 컴퓨팅의 정의](https://www.notion.so/91da54fcb7e94979bb7736125b81572d)
+* [가상화란?](https://www.notion.so/25158627a1094b5b940708e9149a968b)
 
 
 
