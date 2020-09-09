@@ -69,9 +69,13 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### React
 
 * [리액트란?](https://www.notion.so/370c2ef5504d499eba9ad258833aa93c)
+* [웹팩, 바벨 개념](https://www.notion.so/0abd6e423c3542d5a2a2c58527947aef)
 * [create-react-app](https://www.notion.so/create-react-app-b24bc2dc00944e78be2706feda1ae19e)
+* [createElement, JSX](https://www.notion.so/createElement-JSX-f1442bbe6065440d9158dce483f20c2f)
 * [SPA, CSR, SSR](https://www.notion.so/SPA-CSR-SSR-c3033ff016de428f9f9d82701940db15)
+* [Virtual DOM](https://www.notion.so/Virtual-DOM-d1aa2030b75b454da8e1e2772ae1fee7)
 * [Hook](https://www.notion.so/eb76861b0c924f88aa084dc3e4822e05)
+* [Redux](https://www.notion.so/Redux-a733ac76fcf647ac9d9d74b454e4733f)
 
 ---
 
