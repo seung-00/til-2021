@@ -76,6 +76,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [Virtual DOM](https://www.notion.so/Virtual-DOM-d1aa2030b75b454da8e1e2772ae1fee7)
 * [Hook](https://www.notion.so/eb76861b0c924f88aa084dc3e4822e05)
 * [Redux](https://www.notion.so/Redux-a733ac76fcf647ac9d9d74b454e4733f)
+* [React-Redux](https://www.notion.so/React-Redux-eb44702cb9a3438c8be841ea00e2516c)
 
 ---
 
