@@ -54,6 +54,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 * [Critical Rendering Path 1](https://www.notion.so/Critical-Rendering-Path-1-f497d63b474e4c5aab03c92a83e3e652)
 * [Critical Rendering Path 2](https://www.notion.so/Critical-Rendering-Path-2-48560b2180f742a6bbf1fef30b237a0e)
+* [REST API](https://www.notion.so/REST-API-5adcbba5df384239aba6f07192209d62)
 
 ---
 
