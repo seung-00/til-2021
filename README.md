@@ -54,7 +54,8 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 * [Critical Rendering Path 1](https://www.notion.so/Critical-Rendering-Path-1-f497d63b474e4c5aab03c92a83e3e652)
 * [Critical Rendering Path 2](https://www.notion.so/Critical-Rendering-Path-2-48560b2180f742a6bbf1fef30b237a0e)
-* [REST API](https://www.notion.so/REST-API-5adcbba5df384239aba6f07192209d62)
+* [REST API](https://www.notion.so/REST-API-0827e5e0aa884520a5ce64ac7c5c8998)
+* [그런 REST API로 괜찮은가](https://www.notion.so/REST-API-31af7390fe0d4d3989d05bda678c5c92)
 
 ---
 
@@ -64,6 +65,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [var, let, const](https://www.notion.so/var-let-const-bcf4d75c96de4e16a31bb4944ae2e716)
 * [hoisting](https://www.notion.so/hoisting-9bfbfadf8eef445f9bbbf13aec83ae99)
 * [closure](https://www.notion.so/closure-6b77f34770d449bfa7db60fe206f0d68)
+* [spread 와 rest](https://www.notion.so/spread-rest-4616b95c77af463e88b918cf003fc79e)
 
 ---
 
