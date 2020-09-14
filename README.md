@@ -66,6 +66,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [hoisting](https://www.notion.so/hoisting-9bfbfadf8eef445f9bbbf13aec83ae99)
 * [closure](https://www.notion.so/closure-6b77f34770d449bfa7db60fe206f0d68)
 * [spread 와 rest](https://www.notion.so/spread-rest-4616b95c77af463e88b918cf003fc79e)
+* [얕은 복사, 깊은 복사](https://www.notion.so/997679767504434f9fc2d0d42b763c7a)
 
 ---
 
