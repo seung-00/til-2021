@@ -60,6 +60,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [Critical Rendering Path 2](https://www.notion.so/Critical-Rendering-Path-2-48560b2180f742a6bbf1fef30b237a0e)
 * [REST API](https://www.notion.so/REST-API-0827e5e0aa884520a5ce64ac7c5c8998)
 * [그런 REST API로 괜찮은가](https://www.notion.so/REST-API-31af7390fe0d4d3989d05bda678c5c92)
+* [SOP와 CORS](https://www.notion.so/SOP-CORS-b181e690096c429f99ac8a36c6ebb58a)
 
 ---
 
