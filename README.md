@@ -42,6 +42,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [3.1 Process Concept](https://www.notion.so/3-1-Process-Concept-4e6a22d4a5c242ef9b2984fcf7334ecf)
 * [3.2 Process Scheduling](https://www.notion.so/3-2-Process-Scheduling-da33d9c3504f4911b554e33aefc8d995)
 * [3.3 Operation on Processes](https://www.notion.so/3-3-Operation-on-Processes-b327e67bf96b49d7900bbb0b3c52ef09)
+* [3.4 Schedulers](https://www.notion.so/3-4-Schedulers-1510e2e66e41421abd94b065a78ebd91)
 
 ---
 
