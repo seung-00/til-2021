@@ -64,6 +64,8 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [REST API](https://www.notion.so/REST-API-0827e5e0aa884520a5ce64ac7c5c8998)
 * [그런 REST API로 괜찮은가](https://www.notion.so/REST-API-31af7390fe0d4d3989d05bda678c5c92)
 * [SOP와 CORS](https://www.notion.so/SOP-CORS-b181e690096c429f99ac8a36c6ebb58a)
+* [SPA](https://www.notion.so/SPA-c3033ff016de428f9f9d82701940db15)
+* [CSR과 SSR](https://www.notion.so/CSR-SSR-505eeba8c54d48ce960127f23e3be852)
 
 ---
 
@@ -86,7 +88,6 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [웹팩, 바벨 개념](https://www.notion.so/0abd6e423c3542d5a2a2c58527947aef)
 * [create-react-app](https://www.notion.so/create-react-app-b24bc2dc00944e78be2706feda1ae19e)
 * [createElement, JSX](https://www.notion.so/createElement-JSX-f1442bbe6065440d9158dce483f20c2f)
-* [SPA, CSR, SSR](https://www.notion.so/SPA-CSR-SSR-c3033ff016de428f9f9d82701940db15)
 * [Virtual DOM](https://www.notion.so/Virtual-DOM-d1aa2030b75b454da8e1e2772ae1fee7)
 * [Hook](https://www.notion.so/eb76861b0c924f88aa084dc3e4822e05)
 * [Redux](https://www.notion.so/Redux-a733ac76fcf647ac9d9d74b454e4733f)
