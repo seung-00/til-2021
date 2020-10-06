@@ -17,7 +17,8 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
   * [Web](https://www.notion.so/e794b3cf63b940b38ec3096a0cd3f218?v=51a8923cde7940288f2e3cc476087afe)
   * [Javascript](https://www.notion.so/c0c640e8a2094206b499f70e9d35d9eb?v=2895a1416b6d49e685c758eb76b1b62f)
   * [React](https://www.notion.so/071e4cd57f2344d1a776f8cc03dbaec2?v=62366be9494f4963aae1dcaaf6500d6a)
-  * [Cloud](https://www.notion.so/2a27366dfa9240469fdc47f191c2bf24?v=2c8d4701f0cd44648f05f69749d49cad)
+  * [Redux](https://www.notion.so/6b5a98e81e6f4d7eadb31575cd20ee2a?v=e87d57b7d9324dbf8074e77c84b60174)
+  * [Docker](https://www.notion.so/2a27366dfa9240469fdc47f191c2bf24?v=2c8d4701f0cd44648f05f69749d49cad)
 
 
 ---
@@ -90,12 +91,18 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [createElement, JSX](https://www.notion.so/createElement-JSX-f1442bbe6065440d9158dce483f20c2f)
 * [Virtual DOM](https://www.notion.so/Virtual-DOM-d1aa2030b75b454da8e1e2772ae1fee7)
 * [Hook](https://www.notion.so/eb76861b0c924f88aa084dc3e4822e05)
-* [Redux](https://www.notion.so/Redux-a733ac76fcf647ac9d9d74b454e4733f)
+
+---
+
+### Redux
+
+* [MVC ⇒ Flux](https://www.notion.so/MVC-Flux-e3a8835eb7d04ceaabbf0cf6e283176e)
+* [Flux => Redux](https://www.notion.so/Flux-Redux-a733ac76fcf647ac9d9d74b454e4733f)
 * [React-Redux](https://www.notion.so/React-Redux-eb44702cb9a3438c8be841ea00e2516c)
 
 ---
 
-### Cloud
+### Docker
 
 * [클라우드 컴퓨팅의 정의](https://www.notion.so/91da54fcb7e94979bb7736125b81572d)
-* [가상화란?](https://www.notion.so/25158627a1094b5b940708e9149a968b)
+* [가상화란?, VM과 Container](https://www.notion.so/25158627a1094b5b940708e9149a968b)
