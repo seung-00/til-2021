@@ -19,6 +19,8 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
   * [React](https://www.notion.so/071e4cd57f2344d1a776f8cc03dbaec2?v=62366be9494f4963aae1dcaaf6500d6a)
   * [Redux](https://www.notion.so/6b5a98e81e6f4d7eadb31575cd20ee2a?v=e87d57b7d9324dbf8074e77c84b60174)
   * [Docker](https://www.notion.so/2a27366dfa9240469fdc47f191c2bf24?v=2c8d4701f0cd44648f05f69749d49cad)
+  
+  * [Git](https://www.notion.so/a514dc4535aa41299f369f5943df6498?v=46fca1451ba547d9b381926db694c3b3)
 
 
 ---
@@ -110,3 +112,9 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 * [클라우드 컴퓨팅의 정의](https://www.notion.so/91da54fcb7e94979bb7736125b81572d)
 * [가상화란?, VM과 Container](https://www.notion.so/25158627a1094b5b940708e9149a968b)
+
+---
+
+### Git
+
+* [Git basic](https://www.notion.so/Git-basic-e08b5f19967840949d96178d11693f09)
