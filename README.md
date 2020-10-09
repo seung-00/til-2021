@@ -38,12 +38,16 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 * [1 Introduction](https://www.notion.so/Introduction-f0b237a552e8474a8ba99a364c0e2334)
 * [2.1 System Structure](https://www.notion.so/2-1-System-Structure-990f2c72b781400a8813c0f79533bb3f)
-* [2.2 System Call](https://www.notion.so/2-2-System-Call-4ffd6ce20a08453db4507e82fa89c1ca)
-* [2.3 System Program](https://www.notion.so/2-3-System-Program-6dc7f66c592443809284d3ea38138cb1)
-* [3.1 Process Concept](https://www.notion.so/3-1-Process-Concept-4e6a22d4a5c242ef9b2984fcf7334ecf)
-* [3.2 Process Scheduling](https://www.notion.so/3-2-Process-Scheduling-da33d9c3504f4911b554e33aefc8d995)
-* [3.3 Operation on Processes](https://www.notion.so/3-3-Operation-on-Processes-b327e67bf96b49d7900bbb0b3c52ef09)
-* [3.4 Schedulers](https://www.notion.so/3-4-Schedulers-1510e2e66e41421abd94b065a78ebd91)
+* [2.2 System Structure](https://www.notion.so/2-2-System-Call-4ffd6ce20a08453db4507e82fa89c1ca)
+* [2.3 System Structure](https://www.notion.so/2-3-System-Program-6dc7f66c592443809284d3ea38138cb1)
+* [3.1 Process](https://www.notion.so/3-1-Process-Concept-4e6a22d4a5c242ef9b2984fcf7334ecf)
+* [3.2 Process](https://www.notion.so/3-2-Process-Scheduling-da33d9c3504f4911b554e33aefc8d995)
+* [3.3 Process](https://www.notion.so/3-3-Operation-on-Processes-b327e67bf96b49d7900bbb0b3c52ef09)
+* [3.4 Process](https://www.notion.so/3-4-Schedulers-1510e2e66e41421abd94b065a78ebd91)
+
+* [4.1 Thread](https://www.notion.so/4-1-Thread-6bf0641bd1d4468f8cd04d1c4bd68c51)
+* [4.2 Thread](https://www.notion.so/4-2-Thread-3b7c01e4e5034cd8ac92f3afb8e00279)
+* [5.1 CPU Scheduling](https://www.notion.so/5-1-CPU-Scheduling-c5c4a5d5e34d4d7d9f7855a7725dee2a)
 
 ---
 
