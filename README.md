@@ -46,10 +46,11 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [3.2 Process](https://www.notion.so/3-2-Process-Scheduling-da33d9c3504f4911b554e33aefc8d995)
 * [3.3 Process](https://www.notion.so/3-3-Operation-on-Processes-b327e67bf96b49d7900bbb0b3c52ef09)
 * [3.4 Process](https://www.notion.so/3-4-Schedulers-1510e2e66e41421abd94b065a78ebd91)
-
 * [4.1 Thread](https://www.notion.so/4-1-Thread-6bf0641bd1d4468f8cd04d1c4bd68c51)
 * [4.2 Thread](https://www.notion.so/4-2-Thread-3b7c01e4e5034cd8ac92f3afb8e00279)
-* [5.1 CPU Scheduling](https://www.notion.so/5-1-CPU-Scheduling-c5c4a5d5e34d4d7d9f7855a7725dee2a)
+* [5.1 Process Scheduling](https://www.notion.so/5-1-CPU-Scheduling-c5c4a5d5e34d4d7d9f7855a7725dee2a)
+* [5.2 Process Scheduling](https://www.notion.so/5-2-Process-Scheduling-aa92010866d14169995407941a7cc21e)
+* [5.3 Process Scheduling](https://www.notion.so/5-3-Process-Scheduling-a746d1b57a174eec99490c2a998caef8)
 
 ---
 
