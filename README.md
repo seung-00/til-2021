@@ -13,6 +13,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [TIL](https://www.notion.so/TIL-ccb6391dfe6a4e15a45bbc02764260ba)
   * [Computer Architecture](https://www.notion.so/7c3c906c8db04905be7e0e9e90ccc8a4)
   * [Operating System](https://www.notion.so/b2d7994ec92b4deeb61fdc148e5e0f03?v=b77fb016c58e4da18ef05828392e6c34)
+  * [Computer Network](https://www.notion.so/8ae95307493a40b1aca49eda99b0c447?v=0ff1620611fc4c1da0610aca0535d287)
   * [Database](https://www.notion.so/43af68d39c864d53b0b03850e1032165)
   * [Web](https://www.notion.so/e794b3cf63b940b38ec3096a0cd3f218?v=51a8923cde7940288f2e3cc476087afe)
   * [Javascript](https://www.notion.so/c0c640e8a2094206b499f70e9d35d9eb?v=2895a1416b6d49e685c758eb76b1b62f)
@@ -51,6 +52,12 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [5.1 Process Scheduling](https://www.notion.so/5-1-CPU-Scheduling-c5c4a5d5e34d4d7d9f7855a7725dee2a)
 * [5.2 Process Scheduling](https://www.notion.so/5-2-Process-Scheduling-aa92010866d14169995407941a7cc21e)
 * [5.3 Process Scheduling](https://www.notion.so/5-3-Process-Scheduling-a746d1b57a174eec99490c2a998caef8)
+
+---
+
+### Computer Network
+
+* [port forwarding](https://www.notion.so/port-forwarding-32d5df7b328b4c25bbf3c2e8024af441)
 
 ---
 
