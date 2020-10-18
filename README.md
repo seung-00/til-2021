@@ -18,8 +18,8 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
   * [Javascript](https://www.notion.so/c0c640e8a2094206b499f70e9d35d9eb?v=2895a1416b6d49e685c758eb76b1b62f)
   * [React](https://www.notion.so/071e4cd57f2344d1a776f8cc03dbaec2?v=62366be9494f4963aae1dcaaf6500d6a)
   * [Redux](https://www.notion.so/6b5a98e81e6f4d7eadb31575cd20ee2a?v=e87d57b7d9324dbf8074e77c84b60174)
+  * [Linux](https://www.notion.so/4719cba25f7d49d1939005eb7a1a1d0b?v=630614cb91cc45c18ba379f41e7593e8)
   * [Docker](https://www.notion.so/2a27366dfa9240469fdc47f191c2bf24?v=2c8d4701f0cd44648f05f69749d49cad)
-  
   * [Git](https://www.notion.so/a514dc4535aa41299f369f5943df6498?v=46fca1451ba547d9b381926db694c3b3)
 
 
@@ -106,6 +106,12 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [MVC ⇒ Flux](https://www.notion.so/MVC-Flux-e3a8835eb7d04ceaabbf0cf6e283176e)
 * [Flux => Redux](https://www.notion.so/Flux-Redux-a733ac76fcf647ac9d9d74b454e4733f)
 * [React-Redux](https://www.notion.so/React-Redux-eb44702cb9a3438c8be841ea00e2516c)
+
+---
+
+### Linux
+
+- [ubuntu server wifi 연결](https://www.notion.so/ubuntu-server-wifi-6fa7a894e0fa4f6380a0b1b914514ea8)
 
 ---
 
