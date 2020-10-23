@@ -134,3 +134,4 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### Git
 
 * [Git basic](https://www.notion.so/Git-basic-e08b5f19967840949d96178d11693f09)
+* [Better commit](https://www.notion.so/Better-Commit-ec894703437d47f1a1efd6056223c8b0)
