@@ -52,6 +52,8 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [5.1 Process Scheduling](https://www.notion.so/5-1-CPU-Scheduling-c5c4a5d5e34d4d7d9f7855a7725dee2a)
 * [5.2 Process Scheduling](https://www.notion.so/5-2-Process-Scheduling-aa92010866d14169995407941a7cc21e)
 * [5.3 Process Scheduling](https://www.notion.so/5-3-Process-Scheduling-a746d1b57a174eec99490c2a998caef8)
+* [6.1 Synchronization](https://www.notion.so/6-1-Synchronization-25bc6855a7a44bc69e89ae00e2eb2c2f)
+* [6.2 Synchronization](https://www.notion.so/6-2-Synchronization-fa17bdce00b64641b7854928aa6a4d79)
 
 ---
 
@@ -134,4 +136,4 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### Git
 
 * [Git basic](https://www.notion.so/Git-basic-e08b5f19967840949d96178d11693f09)
-* [Better commit](https://www.notion.so/Better-Commit-ec894703437d47f1a1efd6056223c8b0)
+* [logs for better commit](https://www.notion.so/Better-Commit-ec894703437d47f1a1efd6056223c8b0)
