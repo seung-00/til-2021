@@ -17,6 +17,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
   * [Database](https://www.notion.so/43af68d39c864d53b0b03850e1032165)
   * [Web](https://www.notion.so/e794b3cf63b940b38ec3096a0cd3f218?v=51a8923cde7940288f2e3cc476087afe)
   * [Javascript](https://www.notion.so/c0c640e8a2094206b499f70e9d35d9eb?v=2895a1416b6d49e685c758eb76b1b62f)
+  * [CSS](https://www.notion.so/680d947fd96448769165fb508226042f?v=30f6096f95174ff2b82c8162808cf21c)
   * [React](https://www.notion.so/071e4cd57f2344d1a776f8cc03dbaec2?v=62366be9494f4963aae1dcaaf6500d6a)
   * [Redux](https://www.notion.so/6b5a98e81e6f4d7eadb31575cd20ee2a?v=e87d57b7d9324dbf8074e77c84b60174)
   * [Linux](https://www.notion.so/4719cba25f7d49d1939005eb7a1a1d0b?v=630614cb91cc45c18ba379f41e7593e8)
@@ -95,6 +96,12 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [spread 와 rest](https://www.notion.so/spread-rest-4616b95c77af463e88b918cf003fc79e)
 * [얕은 복사, 깊은 복사](https://www.notion.so/997679767504434f9fc2d0d42b763c7a)
 * [JS 엔진과 동기, 비동기](https://www.notion.so/JS-cc010c15824144689da992ff6d66b151)
+
+---
+
+### CSS
+
+* [styled-components](https://www.notion.so/styled-components-bb90fab04fb246f5a53d3922f8be52c6)
 
 ---
 
