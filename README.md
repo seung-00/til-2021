@@ -55,6 +55,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [5.3 Process Scheduling](https://www.notion.so/5-3-Process-Scheduling-a746d1b57a174eec99490c2a998caef8)
 * [6.1 Synchronization](https://www.notion.so/6-1-Synchronization-25bc6855a7a44bc69e89ae00e2eb2c2f)
 * [6.2 Synchronization](https://www.notion.so/6-2-Synchronization-fa17bdce00b64641b7854928aa6a4d79)
+* [6.3 Synchronization](https://www.notion.so/6-3-Synchronization-4f096797de6c43ff875317e42260f569)
 
 ---
 
