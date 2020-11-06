@@ -56,6 +56,8 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [6.1 Synchronization](https://www.notion.so/6-1-Synchronization-25bc6855a7a44bc69e89ae00e2eb2c2f)
 * [6.2 Synchronization](https://www.notion.so/6-2-Synchronization-fa17bdce00b64641b7854928aa6a4d79)
 * [6.3 Synchronization](https://www.notion.so/6-3-Synchronization-4f096797de6c43ff875317e42260f569)
+* [6.4 Synchronization](https://www.notion.so/6-4-Synchronization-4282578b9f2f4342ab3e4ff6140d08c5)
+* [7.1 Deadlocks](https://www.notion.so/7-1-Deadlocks-929c4c6450824947bed89f3b4402fdc0)
 
 ---
 
