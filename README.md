@@ -58,6 +58,8 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [6.3 Synchronization](https://www.notion.so/6-3-Synchronization-4f096797de6c43ff875317e42260f569)
 * [6.4 Synchronization](https://www.notion.so/6-4-Synchronization-4282578b9f2f4342ab3e4ff6140d08c5)
 * [7.1 Deadlocks](https://www.notion.so/7-1-Deadlocks-929c4c6450824947bed89f3b4402fdc0)
+* [7.2 Deadlocks](https://www.notion.so/7-2-Deadlocks-5e95ba6b64704d00947358e262435d8e)
+* [8.1 Memory Management](https://www.notion.so/8-1-Memory-Management-7960b60d914d4d20a871bdca575913b5)
 
 ---
 
