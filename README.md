@@ -17,6 +17,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
   * [Database](https://www.notion.so/43af68d39c864d53b0b03850e1032165)
   * [Web](https://www.notion.so/e794b3cf63b940b38ec3096a0cd3f218?v=51a8923cde7940288f2e3cc476087afe)
   * [Javascript](https://www.notion.so/c0c640e8a2094206b499f70e9d35d9eb?v=2895a1416b6d49e685c758eb76b1b62f)
+  * [TypeScript](https://www.notion.so/4f42b0037ac4457a87129d9e9ec13238?v=6b34ea9751f040dfab233cdaafd47062)
   * [CSS](https://www.notion.so/680d947fd96448769165fb508226042f?v=30f6096f95174ff2b82c8162808cf21c)
   * [React](https://www.notion.so/071e4cd57f2344d1a776f8cc03dbaec2?v=62366be9494f4963aae1dcaaf6500d6a)
   * [Redux](https://www.notion.so/6b5a98e81e6f4d7eadb31575cd20ee2a?v=e87d57b7d9324dbf8074e77c84b60174)
@@ -60,6 +61,8 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [7.1 Deadlocks](https://www.notion.so/7-1-Deadlocks-929c4c6450824947bed89f3b4402fdc0)
 * [7.2 Deadlocks](https://www.notion.so/7-2-Deadlocks-5e95ba6b64704d00947358e262435d8e)
 * [8.1 Memory Management](https://www.notion.so/8-1-Memory-Management-7960b60d914d4d20a871bdca575913b5)
+* [8.2 Memory Management](https://www.notion.so/8-2-Memory-Management-2260a8e8243a460fb34be6a13586b9bb)
+* [8.3 Memory Management](https://www.notion.so/8-3-Memory-Management-053a664f1bd34f9b96db7728a9be1c4d)
 
 ---
 
@@ -102,6 +105,11 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [얕은 복사, 깊은 복사](https://www.notion.so/997679767504434f9fc2d0d42b763c7a)
 * [JS 엔진과 동기, 비동기](https://www.notion.so/JS-cc010c15824144689da992ff6d66b151)
 
+### TypeScript
+
+* [개요](https://www.notion.so/42d6572437bb46f6867652ce612babe2)
+* [Type](https://www.notion.so/Type-2cf0b28b52ce4a539895852134fd6446)
+
 ---
 
 ### CSS
@@ -120,6 +128,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [Virtual DOM](https://www.notion.so/Virtual-DOM-d1aa2030b75b454da8e1e2772ae1fee7)
 * [Hooks](https://www.notion.so/eb76861b0c924f88aa084dc3e4822e05)
 * [React Router](https://www.notion.so/React-Router-ee5f6d1ada214073802b84b6e0799f0a)
+* [React Scaffolding](https://www.notion.so/react-scaffolding-b5860b28eb99465db621a6857f345d3b)
 
 ---
 
