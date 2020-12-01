@@ -63,6 +63,8 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [8.1 Memory Management](https://www.notion.so/8-1-Memory-Management-7960b60d914d4d20a871bdca575913b5)
 * [8.2 Memory Management](https://www.notion.so/8-2-Memory-Management-2260a8e8243a460fb34be6a13586b9bb)
 * [8.3 Memory Management](https://www.notion.so/8-3-Memory-Management-053a664f1bd34f9b96db7728a9be1c4d)
+* [8.4 Memory Management](https://www.notion.so/8-4-Memory-Management-4fcc555c07214bf2b523d24dbad4cf66)
+* [9.1 Virtual Memory Management](https://www.notion.so/9-1-Virtual-Memory-Management-02c34cf2ede4494ba42e3821e8a4502f)
 
 ---
 
@@ -109,6 +111,12 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 * [개요](https://www.notion.so/42d6572437bb46f6867652ce612babe2)
 * [Type](https://www.notion.so/Type-2cf0b28b52ce4a539895852134fd6446)
+* [Interface](https://www.notion.so/Interface-b7830d70db044ec68ee6d6e71d0eda69)
+* [Functional Type](https://www.notion.so/Functional-Type-142faca33de5495d933cba05e763afba)
+* [Enum Type](https://www.notion.so/Enum-Type-973f04ca826c4e1eaacab51094dc096b)
+* [Generic](https://www.notion.so/Generic-8fb4bd29e61645b085df8e787704502d)
+* [TS로 React App Tutorial](https://www.notion.so/TS-React-App-Tutorial-99f01980b0ed44a8bd5cdcd729c5bb57)
+* [TS로 React 상태 관리](https://www.notion.so/TS-React-b791094da7394d3b88f7d88e34b01b00)
 
 ---
 
