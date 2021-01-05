@@ -126,6 +126,8 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### CSS
 
 * [styled-components](https://www.notion.so/styled-components-bb90fab04fb246f5a53d3922f8be52c6)
+* [display](https://www.notion.so/display-8dc86f9cb28a4d1ca29f633b1c9dc186)
+* [position](https://www.notion.so/position-d7a1b04f5d1548faacbc58e002fa0352)
 
 ---
 
