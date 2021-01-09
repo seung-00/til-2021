@@ -132,17 +132,18 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ---
 
-### 
+### React
 
 * [리액트란?](https://www.notion.so/370c2ef5504d499eba9ad258833aa93c)
-* [리액트 예제](https://www.notion.so/f0f1e2ed495c438fab32db03b904ee44)
-* [웹팩, 바벨 개념](https://www.notion.so/0abd6e423c3542d5a2a2c58527947aef)
-* [create-react-app](https://www.notion.so/create-react-app-b24bc2dc00944e78be2706feda1ae19e)
-* [createElement, JSX](https://www.notion.so/createElement-JSX-f1442bbe6065440d9158dce483f20c2f)
 * [Virtual DOM](https://www.notion.so/Virtual-DOM-d1aa2030b75b454da8e1e2772ae1fee7)
-* [Hooks](https://www.notion.so/eb76861b0c924f88aa084dc3e4822e05)
-* [React Router](https://www.notion.so/React-Router-ee5f6d1ada214073802b84b6e0799f0a)
+* [웹팩, 바벨 개념](https://www.notion.so/0abd6e423c3542d5a2a2c58527947aef)
+* [createElement, JSX](https://www.notion.so/createElement-JSX-f1442bbe6065440d9158dce483f20c2f)
+* [create-react-app](https://www.notion.so/create-react-app-b24bc2dc00944e78be2706feda1ae19e)
+* [CSS in React](https://www.notion.so/CSS-in-React-015f436c8db3417890645a315b9c73da)
+* [Hooks Docs](https://www.notion.so/Hooks-Docs-eb76861b0c924f88aa084dc3e4822e05)
+* [React Router Docs](https://www.notion.so/React-Router-Docs-ee5f6d1ada214073802b84b6e0799f0a)
 * [React Scaffolding](https://www.notion.so/react-scaffolding-b5860b28eb99465db621a6857f345d3b)
+* [React DnD Docs](https://www.notion.so/React-DnD-Docs-f14635106a454b6c8b5975deddd09861)
 
 ---
 
@@ -185,7 +186,8 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### CI/CD
 
 * [CI/CD Concept](https://www.notion.so/CI-CD-Concept-c18dd6012a904d92ad73267e6b4575f8)
-* [Introduction to GitHub Actions(번역)](https://www.notion.so/Introduction-to-GitHub-Actions-777665260cf0446eb45c564690ba48ec)
-* [Finding and customizing actions(번역)](https://www.notion.so/Finding-and-customizing-actions-aa96e6ad2bf4405085fd5505385bae20)
+* [GitHub Actions Docs (Introduction to GitHub Actions)](https://www.notion.so/GitHub-Actions-Docs-Introduction-to-GitHub-Actions-777665260cf0446eb45c564690ba48ec)
+* [GitHub Actions Docs (Finding and customizing actions)](https://www.notion.so/GitHub-Actions-Docs-Finding-and-customizing-actions-aa96e6ad2bf4405085fd5505385bae20)
 * [GitGub Action으로 React Build](https://www.notion.so/GitGub-Action-React-Build-0191728b8fee406c9053152dc797e08a)
 * [GitHub Action으로 Docker Image build & push](https://www.notion.so/GitHub-Action-Docker-Image-build-push-18a6528421cf49e1a94856012066563a)
+
