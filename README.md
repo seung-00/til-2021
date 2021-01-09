@@ -24,6 +24,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
   * [Linux](https://www.notion.so/4719cba25f7d49d1939005eb7a1a1d0b?v=630614cb91cc45c18ba379f41e7593e8)
   * [Docker](https://www.notion.so/2a27366dfa9240469fdc47f191c2bf24?v=2c8d4701f0cd44648f05f69749d49cad)
   * [Git](https://www.notion.so/a514dc4535aa41299f369f5943df6498?v=46fca1451ba547d9b381926db694c3b3)
+  * [CI/CD](GitGub Action으로 React Build test)
 
 
 ---
@@ -131,7 +132,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ---
 
-### React
+### 
 
 * [리액트란?](https://www.notion.so/370c2ef5504d499eba9ad258833aa93c)
 * [리액트 예제](https://www.notion.so/f0f1e2ed495c438fab32db03b904ee44)
@@ -179,3 +180,12 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [logs for better commit](https://www.notion.so/Better-Commit-ec894703437d47f1a1efd6056223c8b0)
 * [Git workflow log](https://www.notion.so/Git-workflow-log-33cfe1200ec44dc0bfbe8aa894bce872)
 
+---
+
+### CI/CD
+
+* [CI/CD Concept](https://www.notion.so/CI-CD-Concept-c18dd6012a904d92ad73267e6b4575f8)
+* [Introduction to GitHub Actions(번역)](https://www.notion.so/Introduction-to-GitHub-Actions-777665260cf0446eb45c564690ba48ec)
+* [Finding and customizing actions(번역)](https://www.notion.so/Finding-and-customizing-actions-aa96e6ad2bf4405085fd5505385bae20)
+* [GitGub Action으로 React Build](https://www.notion.so/GitGub-Action-React-Build-0191728b8fee406c9053152dc797e08a)
+* [GitHub Action으로 Docker Image build & push](https://www.notion.so/GitHub-Action-Docker-Image-build-push-18a6528421cf49e1a94856012066563a)
