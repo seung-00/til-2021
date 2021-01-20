@@ -109,6 +109,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [spread 와 rest](https://www.notion.so/spread-rest-4616b95c77af463e88b918cf003fc79e)
 * [얕은 복사, 깊은 복사](https://www.notion.so/997679767504434f9fc2d0d42b763c7a)
 * [JS 엔진과 동기, 비동기](https://www.notion.so/JS-cc010c15824144689da992ff6d66b151)
+* [Big O with JS](https://www.notion.so/Big-O-of-JS-20aafde8de8a4e2090ca8613d1712b0d)
 
 ### TypeScript
 
