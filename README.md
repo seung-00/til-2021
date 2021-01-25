@@ -108,8 +108,9 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [closure](https://www.notion.so/closure-6b77f34770d449bfa7db60fe206f0d68)
 * [spread 와 rest](https://www.notion.so/spread-rest-4616b95c77af463e88b918cf003fc79e)
 * [얕은 복사, 깊은 복사](https://www.notion.so/997679767504434f9fc2d0d42b763c7a)
-* [JS 엔진과 동기, 비동기](https://www.notion.so/JS-cc010c15824144689da992ff6d66b151)
 * [Big O with JS](https://www.notion.so/Big-O-of-JS-20aafde8de8a4e2090ca8613d1712b0d)
+* [JS 엔진과 동기, 비동기](https://www.notion.so/JS-cc010c15824144689da992ff6d66b151)
+* [비동기성과 Callback 패턴](https://www.notion.so/Callback-56dfc221108e4cca9f6af5b16698f5b6)
 
 ### TypeScript
 
