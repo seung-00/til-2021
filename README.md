@@ -14,6 +14,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
   * [Computer Architecture](https://www.notion.so/7c3c906c8db04905be7e0e9e90ccc8a4)
   * [Operating System](https://www.notion.so/b2d7994ec92b4deeb61fdc148e5e0f03?v=b77fb016c58e4da18ef05828392e6c34)
   * [Computer Network](https://www.notion.so/8ae95307493a40b1aca49eda99b0c447?v=0ff1620611fc4c1da0610aca0535d287)
+  * [Algorithm](https://www.notion.so/d675c78e95214ee6995a855af57358a9?v=f9bb420f8a2d4a61836b4e950cb52152)
   * [Database](https://www.notion.so/43af68d39c864d53b0b03850e1032165)
   * [Web](https://www.notion.so/e794b3cf63b940b38ec3096a0cd3f218?v=51a8923cde7940288f2e3cc476087afe)
   * [Javascript](https://www.notion.so/c0c640e8a2094206b499f70e9d35d9eb?v=2895a1416b6d49e685c758eb76b1b62f)
@@ -24,7 +25,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
   * [Linux](https://www.notion.so/4719cba25f7d49d1939005eb7a1a1d0b?v=630614cb91cc45c18ba379f41e7593e8)
   * [Docker](https://www.notion.so/2a27366dfa9240469fdc47f191c2bf24?v=2c8d4701f0cd44648f05f69749d49cad)
   * [Git](https://www.notion.so/a514dc4535aa41299f369f5943df6498?v=46fca1451ba547d9b381926db694c3b3)
-  * [CI/CD](GitGub Action으로 React Build test)
+  * [CI/CD](https://www.notion.so/3097221bd46f4dc68e1dbdf574e4eb45?v=434ce2ec15724746b1640fa18ff44735)
 
 
 ---
@@ -77,6 +78,12 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ---
 
+### Algorithm
+
+* [Dynamic Programming](https://www.notion.so/Dynamic-Programming-a4cbdd370eba44d09fa93d67109ff6af)
+
+---
+
 ### Database
 
 * [ERD](https://www.notion.so/ERD-36560c58b7dc4f8b8c5366a9d572ae23)
@@ -111,6 +118,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [Big O with JS](https://www.notion.so/Big-O-of-JS-20aafde8de8a4e2090ca8613d1712b0d)
 * [JS 엔진과 동기, 비동기](https://www.notion.so/JS-cc010c15824144689da992ff6d66b151)
 * [비동기성과 Callback 패턴](https://www.notion.so/Callback-56dfc221108e4cca9f6af5b16698f5b6)
+* [Promise](https://www.notion.so/Promise-61097f610bcc4827a3ae4d32df412344)
 
 ### TypeScript
 
