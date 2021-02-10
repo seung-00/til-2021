@@ -121,6 +121,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [JS 엔진과 동기, 비동기](https://www.notion.so/JS-cc010c15824144689da992ff6d66b151)
 * [비동기성과 Callback 패턴](https://www.notion.so/Callback-56dfc221108e4cca9f6af5b16698f5b6)
 * [Promise](https://www.notion.so/Promise-61097f610bcc4827a3ae4d32df412344)
+* [JS Engine 실행 과정](https://www.notion.so/JS-Engine-b263b4aaf8b4471b915e950d697c0637)
 
 ### TypeScript
 
