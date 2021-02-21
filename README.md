@@ -82,6 +82,8 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 * [Dynamic Programming](https://www.notion.so/Dynamic-Programming-a4cbdd370eba44d09fa93d67109ff6af)
 * [조합 (Combination)](https://www.notion.so/Combination-74476f7e03594623a2129d42f99db123)
+* [Two Pointer](https://www.notion.so/Two-Pointer-dbe06514679a4e23abcef43542832a51)
+* [Union-Find](https://www.notion.so/Union-Find-Disjoint-Set-821e76d39f8f43f7af5763853c7162e7)
 
 ---
 
