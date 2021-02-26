@@ -170,6 +170,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [MVC ⇒ Flux](https://www.notion.so/MVC-Flux-e3a8835eb7d04ceaabbf0cf6e283176e)
 * [Flux => Redux](https://www.notion.so/Flux-Redux-a733ac76fcf647ac9d9d74b454e4733f)
 * [React-Redux](https://www.notion.so/React-Redux-eb44702cb9a3438c8be841ea00e2516c)
+* [Redux Toolkit](https://www.notion.so/Redux-Toolkit-7e89068f5c18489f8449add21afc4bdc)
 
 ---
 
