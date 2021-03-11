@@ -171,6 +171,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [Flux => Redux](https://www.notion.so/Flux-Redux-a733ac76fcf647ac9d9d74b454e4733f)
 * [React-Redux](https://www.notion.so/React-Redux-eb44702cb9a3438c8be841ea00e2516c)
 * [Redux Toolkit](https://www.notion.so/Redux-Toolkit-7e89068f5c18489f8449add21afc4bdc)
+* [middleware](https://www.notion.so/Middleware-7f1e7ef36a1e4b1d86482a212e4bae7a)
 
 ---
 
