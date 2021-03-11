@@ -95,6 +95,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [정규화 #3](https://www.notion.so/3-324d07b73d5c4e18884633eb85f304f7)
 * [JOIN](https://www.notion.so/JOIN-a9d51b5bea354c19b73c57f779dd130f)
 * [실습: 캐글 데이터 활용](https://www.notion.so/199d7f331bba452ba23d410dbb31e0d8)
+* [sql 코테 대비](https://www.notion.so/SQL-5335e1839c85425986103a2764241c43)
 
 ---
 
