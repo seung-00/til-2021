@@ -108,6 +108,9 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [SOP와 CORS](https://www.notion.so/SOP-CORS-b181e690096c429f99ac8a36c6ebb58a)
 * [SPA](https://www.notion.so/SPA-c3033ff016de428f9f9d82701940db15)
 * [CSR과 SSR](https://www.notion.so/CSR-SSR-505eeba8c54d48ce960127f23e3be852)
+* [데이터 전송 간략한 역사](https://www.notion.so/78d646ab7cf14bcbad5a68caae07d58f)
+* [쿠키, 세션, 웹 스토리지](https://www.notion.so/576138acab144894919f9a1dc963ca40)
+* [Web Server, Web Application Server](https://www.notion.so/Web-Server-Web-Application-Server-ddb14d6319044b9280b6cc6eb80a610f)
 
 ---
 
