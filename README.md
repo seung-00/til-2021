@@ -166,6 +166,8 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [React Router Docs](https://www.notion.so/React-Router-Docs-ee5f6d1ada214073802b84b6e0799f0a)
 * [React Scaffolding](https://www.notion.so/react-scaffolding-b5860b28eb99465db621a6857f345d3b)
 * [React DnD Docs](https://www.notion.so/React-DnD-Docs-f14635106a454b6c8b5975deddd09861)
+* [Element→Component→State](https://www.notion.so/Element-Component-State-031543adb6b444d8b0b04d305adad15f)
+* [Virtual DOM](https://www.notion.so/Virtual-DOM-144bc1ad2a1c4ebc9cfa1206cea71bdc31)
 
 ---
 
