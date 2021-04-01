@@ -111,6 +111,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [데이터 전송 간략한 역사](https://www.notion.so/78d646ab7cf14bcbad5a68caae07d58f)
 * [쿠키, 세션, 웹 스토리지](https://www.notion.so/576138acab144894919f9a1dc963ca40)
 * [Web Server, Web Application Server](https://www.notion.so/Web-Server-Web-Application-Server-ddb14d6319044b9280b6cc6eb80a610f)
+* [API 보안, OAuth](https://www.notion.so/API-OAuth-563181c58ea24178b65ff187e8c42342)
 
 ---
 
@@ -156,9 +157,10 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### React
 
 * [리액트란?](https://www.notion.so/370c2ef5504d499eba9ad258833aa93c)
-* [Virtual DOM](https://www.notion.so/Virtual-DOM-d1aa2030b75b454da8e1e2772ae1fee7)
 * [웹팩, 바벨 개념](https://www.notion.so/0abd6e423c3542d5a2a2c58527947aef)
 * [createElement, JSX](https://www.notion.so/createElement-JSX-f1442bbe6065440d9158dce483f20c2f)
+* [Element→Component→State](https://www.notion.so/Element-Component-State-031543adb6b444d8b0b04d305adad15f)
+* [Virtual DOM](https://www.notion.so/Virtual-DOM-144bc1ad2a1c4ebc9cfa1206cea71bdc31)
 * [create-react-app](https://www.notion.so/create-react-app-b24bc2dc00944e78be2706feda1ae19e)
 * [CSS in React](https://www.notion.so/CSS-in-React-015f436c8db3417890645a315b9c73da)
 * [Hooks Docs](https://www.notion.so/Hooks-Docs-eb76861b0c924f88aa084dc3e4822e05)
@@ -166,8 +168,6 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [React Router Docs](https://www.notion.so/React-Router-Docs-ee5f6d1ada214073802b84b6e0799f0a)
 * [React Scaffolding](https://www.notion.so/react-scaffolding-b5860b28eb99465db621a6857f345d3b)
 * [React DnD Docs](https://www.notion.so/React-DnD-Docs-f14635106a454b6c8b5975deddd09861)
-* [Element→Component→State](https://www.notion.so/Element-Component-State-031543adb6b444d8b0b04d305adad15f)
-* [Virtual DOM](https://www.notion.so/Virtual-DOM-144bc1ad2a1c4ebc9cfa1206cea71bdc31)
 
 ---
 
