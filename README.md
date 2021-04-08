@@ -75,6 +75,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### Computer Network
 
 * [port forwarding](https://www.notion.so/port-forwarding-32d5df7b328b4c25bbf3c2e8024af441)
+* [OSI 7 Model 하위계층](https://www.notion.so/OSI-7-Model-be0a09a3e21648a1b11510e81afad970)
 
 ---
 
@@ -117,9 +118,11 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ### Javascript
 
-* [scope](https://www.notion.so/scope-b5c1743ba8274337b6fd37879c0e403c)
+* [Prototype](https://www.notion.so/Prototype-6be2c649eb4543c68096889ab9bb7a34)
 * [var, let, const](https://www.notion.so/var-let-const-bcf4d75c96de4e16a31bb4944ae2e716)
+* [scope](https://www.notion.so/scope-b5c1743ba8274337b6fd37879c0e403c)
 * [hoisting](https://www.notion.so/hoisting-9bfbfadf8eef445f9bbbf13aec83ae99)
+* [JS 컴파일 과정](https://www.notion.so/JS-Engine-b263b4aaf8b4471b915e950d697c0637)
 * [closure](https://www.notion.so/closure-6b77f34770d449bfa7db60fe206f0d68)
 * [spread 와 rest](https://www.notion.so/spread-rest-4616b95c77af463e88b918cf003fc79e)
 * [얕은 복사, 깊은 복사](https://www.notion.so/997679767504434f9fc2d0d42b763c7a)
@@ -128,7 +131,6 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [JS 엔진과 동기, 비동기](https://www.notion.so/JS-cc010c15824144689da992ff6d66b151)
 * [비동기성과 Callback 패턴](https://www.notion.so/Callback-56dfc221108e4cca9f6af5b16698f5b6)
 * [Promise](https://www.notion.so/Promise-61097f610bcc4827a3ae4d32df412344)
-* [JS Engine 실행 과정](https://www.notion.so/JS-Engine-b263b4aaf8b4471b915e950d697c0637)
 
 ---
 
