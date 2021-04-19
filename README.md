@@ -17,6 +17,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
   * [Algorithm](https://www.notion.so/d675c78e95214ee6995a855af57358a9?v=f9bb420f8a2d4a61836b4e950cb52152)
   * [Database](https://www.notion.so/43af68d39c864d53b0b03850e1032165)
   * [Web](https://www.notion.so/e794b3cf63b940b38ec3096a0cd3f218?v=51a8923cde7940288f2e3cc476087afe)
+  * [Security](https://www.notion.so/f5b01cc95e74420e8bf034fcc863636e?v=11511cab828f4ce4b9bf6c878699927f)
   * [Javascript](https://www.notion.so/c0c640e8a2094206b499f70e9d35d9eb?v=2895a1416b6d49e685c758eb76b1b62f)
   * [TypeScript](https://www.notion.so/4f42b0037ac4457a87129d9e9ec13238?v=6b34ea9751f040dfab233cdaafd47062)
   * [CSS](https://www.notion.so/680d947fd96448769165fb508226042f?v=30f6096f95174ff2b82c8162808cf21c)
@@ -113,6 +114,13 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [쿠키, 세션, 웹 스토리지](https://www.notion.so/576138acab144894919f9a1dc963ca40)
 * [Web Server, Web Application Server](https://www.notion.so/Web-Server-Web-Application-Server-ddb14d6319044b9280b6cc6eb80a610f)
 * [API 보안, OAuth](https://www.notion.so/API-OAuth-563181c58ea24178b65ff187e8c42342)
+
+---
+
+### Security
+
+* [대칭키, 비대칭키 암호화](https://www.notion.so/8ff63ab7b79e48f2b18635ed60cff47a)
+* [HTTPS](https://www.notion.so/HTTPS-7589cfdd29b7482e96a05eb9dd79e9b3)
 
 ---
 
