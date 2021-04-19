@@ -126,6 +126,8 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ### Javascript
 
+* [Object 와 this](https://www.notion.so/Object-this-3217cdab7c5444ebb742078218d2e821)
+* [생성자 함수](https://www.notion.so/cb7140750cfe4fd8b29e9e28dfd5c16b)
 * [Prototype](https://www.notion.so/Prototype-6be2c649eb4543c68096889ab9bb7a34)
 * [var, let, const](https://www.notion.so/var-let-const-bcf4d75c96de4e16a31bb4944ae2e716)
 * [scope](https://www.notion.so/scope-b5c1743ba8274337b6fd37879c0e403c)
