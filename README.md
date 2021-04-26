@@ -44,32 +44,9 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ### Operating System
 
-* [1 Introduction](https://www.notion.so/Introduction-f0b237a552e8474a8ba99a364c0e2334)
-* [2.1 System Structure](https://www.notion.so/2-1-System-Structure-990f2c72b781400a8813c0f79533bb3f)
-* [2.2 System Structure](https://www.notion.so/2-2-System-Call-4ffd6ce20a08453db4507e82fa89c1ca)
-* [2.3 System Structure](https://www.notion.so/2-3-System-Program-6dc7f66c592443809284d3ea38138cb1)
-* [3.1 Process](https://www.notion.so/3-1-Process-Concept-4e6a22d4a5c242ef9b2984fcf7334ecf)
-* [3.2 Process](https://www.notion.so/3-2-Process-Scheduling-da33d9c3504f4911b554e33aefc8d995)
-* [3.3 Process](https://www.notion.so/3-3-Operation-on-Processes-b327e67bf96b49d7900bbb0b3c52ef09)
-* [3.4 Process](https://www.notion.so/3-4-Schedulers-1510e2e66e41421abd94b065a78ebd91)
-* [4.1 Thread](https://www.notion.so/4-1-Thread-6bf0641bd1d4468f8cd04d1c4bd68c51)
-* [4.2 Thread](https://www.notion.so/4-2-Thread-3b7c01e4e5034cd8ac92f3afb8e00279)
-* [5.1 Process Scheduling](https://www.notion.so/5-1-CPU-Scheduling-c5c4a5d5e34d4d7d9f7855a7725dee2a)
-* [5.2 Process Scheduling](https://www.notion.so/5-2-Process-Scheduling-aa92010866d14169995407941a7cc21e)
-* [5.3 Process Scheduling](https://www.notion.so/5-3-Process-Scheduling-a746d1b57a174eec99490c2a998caef8)
-* [6.1 Synchronization](https://www.notion.so/6-1-Synchronization-25bc6855a7a44bc69e89ae00e2eb2c2f)
-* [6.2 Synchronization](https://www.notion.so/6-2-Synchronization-fa17bdce00b64641b7854928aa6a4d79)
-* [6.3 Synchronization](https://www.notion.so/6-3-Synchronization-4f096797de6c43ff875317e42260f569)
-* [6.4 Synchronization](https://www.notion.so/6-4-Synchronization-4282578b9f2f4342ab3e4ff6140d08c5)
-* [7.1 Deadlocks](https://www.notion.so/7-1-Deadlocks-929c4c6450824947bed89f3b4402fdc0)
-* [7.2 Deadlocks](https://www.notion.so/7-2-Deadlocks-5e95ba6b64704d00947358e262435d8e)
-* [8.1 Memory Management](https://www.notion.so/8-1-Memory-Management-7960b60d914d4d20a871bdca575913b5)
-* [8.2 Memory Management](https://www.notion.so/8-2-Memory-Management-2260a8e8243a460fb34be6a13586b9bb)
-* [8.3 Memory Management](https://www.notion.so/8-3-Memory-Management-053a664f1bd34f9b96db7728a9be1c4d)
-* [8.4 Memory Management](https://www.notion.so/8-4-Memory-Management-4fcc555c07214bf2b523d24dbad4cf66)
-* [9.1 Virtual Memory Management](https://www.notion.so/9-1-Virtual-Memory-Management-02c34cf2ede4494ba42e3821e8a4502f)
-* [9.2 Virtual Memory Management](https://www.notion.so/9-2-Virtual-Memory-Management-e774fd11c27448718e7810e14e630c50)
-* [11.1 Implementing File System](https://www.notion.so/11-1-Implementing-File-System-2dcb53909cbd446b8402ed0e96d3262c)
+* [공룡책 정리](https://www.notion.so/c0fc356773b74baf988f62e5bd4fa7f7)
+* [Kernel of Linux 강의 정리](https://www.notion.so/Kernel-of-Linux-28a62f6e61d544de9933adeb991ba4aa)
+* [Thread vs Process](https://www.notion.so/Thread-vs-Process-fd0d3b2aa76d4eb6b7b75a84204430f4)
 
 ---
 
@@ -126,7 +103,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ### Javascript
 
-* [Object 와 this](https://www.notion.so/Object-this-3217cdab7c5444ebb742078218d2e821)
+* [this](https://www.notion.so/Object-this-3217cdab7c5444ebb742078218d2e821)
 * [생성자 함수](https://www.notion.so/cb7140750cfe4fd8b29e9e28dfd5c16b)
 * [Prototype](https://www.notion.so/Prototype-6be2c649eb4543c68096889ab9bb7a34)
 * [var, let, const](https://www.notion.so/var-let-const-bcf4d75c96de4e16a31bb4944ae2e716)
