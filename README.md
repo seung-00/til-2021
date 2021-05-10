@@ -63,6 +63,8 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [조합 (Combination)](https://www.notion.so/Combination-74476f7e03594623a2129d42f99db123)
 * [Two Pointer](https://www.notion.so/Two-Pointer-dbe06514679a4e23abcef43542832a51)
 * [Union-Find](https://www.notion.so/Union-Find-Disjoint-Set-821e76d39f8f43f7af5763853c7162e7)
+* [knapsack problem](https://www.notion.so/knapsack-problem-fc4d9c41bff34b95904585b1939db7d7)
+* [Dijkstra](https://www.notion.so/Dijkstra-124ca8799ffb475a95abc03ab3ea95f0)
 
 ---
 
