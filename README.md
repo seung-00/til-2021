@@ -53,8 +53,10 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ### Computer Network
 
+* [네트워크 관련 용어](https://www.notion.so/617ea6ddfd7649e4a26413ff812b5439)
 * [port forwarding](https://www.notion.so/port-forwarding-32d5df7b328b4c25bbf3c2e8024af441)
 * [Socket Interface](https://www.notion.so/Socket-Interface-6bb51c0adfd545c0b2cad5351e818401)
+* [ARP(Address Resolution Protocol)](https://www.notion.so/ARP-Address-Resolution-Protocol-2646f6004597450493827221ce459fb3)
 * [OSI 7 Layer, Physical Layer](https://www.notion.so/OSI-7-Layer-Physical-Layer-be0a09a3e21648a1b11510e81afad970)
 * [OSI 7 Layer, Data Link Layer](https://www.notion.so/OSI-7-Layer-Data-Link-Layer-9fe543fd95df41a0be00d9b16617f430)
 
