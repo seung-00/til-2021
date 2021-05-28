@@ -54,9 +54,10 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 ### Computer Network
 
 * [네트워크 관련 용어](https://www.notion.so/617ea6ddfd7649e4a26413ff812b5439)
-* [port forwarding](https://www.notion.so/port-forwarding-32d5df7b328b4c25bbf3c2e8024af441)
 * [Socket Interface](https://www.notion.so/Socket-Interface-6bb51c0adfd545c0b2cad5351e818401)
-* [ARP(Address Resolution Protocol)](https://www.notion.so/ARP-Address-Resolution-Protocol-2646f6004597450493827221ce459fb3)
+* [port forwarding](https://www.notion.so/port-forwarding-32d5df7b328b4c25bbf3c2e8024af441)
+* [TCP](https://www.notion.so/TCP-6b7575f7a0f24525b4acd4f03f1bd9e4)
+* [ARP](https://www.notion.so/ARP-2646f6004597450493827221ce459fb3)
 * [OSI 7 Layer, Physical Layer](https://www.notion.so/OSI-7-Layer-Physical-Layer-be0a09a3e21648a1b11510e81afad970)
 * [OSI 7 Layer, Data Link Layer](https://www.notion.so/OSI-7-Layer-Data-Link-Layer-9fe543fd95df41a0be00d9b16617f430)
 
@@ -105,6 +106,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 * [대칭키, 비대칭키 암호화](https://www.notion.so/8ff63ab7b79e48f2b18635ed60cff47a)
 * [HTTPS](https://www.notion.so/HTTPS-7589cfdd29b7482e96a05eb9dd79e9b3)
+* [SQL Injection, XSS](https://www.notion.so/SQL-Injection-XSS-08de38deb7844fde8931bcc83820e276)
 
 ---
 
