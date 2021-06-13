@@ -99,6 +99,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [쿠키, 세션, 웹 스토리지](https://www.notion.so/576138acab144894919f9a1dc963ca40)
 * [Web Server, Web Application Server](https://www.notion.so/Web-Server-Web-Application-Server-ddb14d6319044b9280b6cc6eb80a610f)
 * [API 보안, OAuth](https://www.notion.so/API-OAuth-563181c58ea24178b65ff187e8c42342)
+* [Debouncing vs Throttling](https://www.notion.so/Debouncing-vs-Throttling-7b83b46cecc04322be68a785f2220ab2)
 
 ---
 
