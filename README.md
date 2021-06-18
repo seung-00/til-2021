@@ -99,7 +99,6 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [쿠키, 세션, 웹 스토리지](https://www.notion.so/576138acab144894919f9a1dc963ca40)
 * [Web Server, Web Application Server](https://www.notion.so/Web-Server-Web-Application-Server-ddb14d6319044b9280b6cc6eb80a610f)
 * [API 보안, OAuth](https://www.notion.so/API-OAuth-563181c58ea24178b65ff187e8c42342)
-* [Debouncing vs Throttling](https://www.notion.so/Debouncing-vs-Throttling-7b83b46cecc04322be68a785f2220ab2)
 
 ---
 
@@ -128,6 +127,8 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [JS 엔진과 동기, 비동기](https://www.notion.so/JS-cc010c15824144689da992ff6d66b151)
 * [비동기성과 Callback 패턴](https://www.notion.so/Callback-56dfc221108e4cca9f6af5b16698f5b6)
 * [Promise](https://www.notion.so/Promise-61097f610bcc4827a3ae4d32df412344)
+* [Debouncing vs Throttling](https://www.notion.so/Debouncing-vs-Throttling-7b83b46cecc04322be68a785f2220ab2)
+* [Intersection Observer API](https://www.notion.so/Intersection-Observer-API-5b62b9bdc4e14ce19e56070d973c1e4c)
 
 ---
 
