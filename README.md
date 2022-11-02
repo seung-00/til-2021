@@ -1,4 +1,4 @@
-# TIL
+# TIL (2021)
 
 > A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
@@ -16,14 +16,13 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
   * [Computer Network](https://www.notion.so/8ae95307493a40b1aca49eda99b0c447?v=0ff1620611fc4c1da0610aca0535d287)
   * [Algorithm](https://www.notion.so/d675c78e95214ee6995a855af57358a9?v=f9bb420f8a2d4a61836b4e950cb52152)
   * [Database](https://www.notion.so/43af68d39c864d53b0b03850e1032165)
+  * [Software Engineering](https://functional-action-ad3.notion.site/852c58acf98c4c28a396b4537d8dbb1a?v=c2999340b42541269e3baa1632ca14ea)
   * [Web](https://www.notion.so/e794b3cf63b940b38ec3096a0cd3f218?v=51a8923cde7940288f2e3cc476087afe)
   * [Security](https://www.notion.so/f5b01cc95e74420e8bf034fcc863636e?v=11511cab828f4ce4b9bf6c878699927f)
   * [Javascript](https://www.notion.so/c0c640e8a2094206b499f70e9d35d9eb?v=2895a1416b6d49e685c758eb76b1b62f)
   * [TypeScript](https://www.notion.so/4f42b0037ac4457a87129d9e9ec13238?v=6b34ea9751f040dfab233cdaafd47062)
   * [Node.js](https://www.notion.so/537e54c8e69e4167af3fd277d22f3f9e?v=4141bfdb59a645f895a4c35e4353c5a0)
-  * [CSS](https://www.notion.so/680d947fd96448769165fb508226042f?v=30f6096f95174ff2b82c8162808cf21c)
   * [React](https://www.notion.so/071e4cd57f2344d1a776f8cc03dbaec2?v=62366be9494f4963aae1dcaaf6500d6a)
-  * [Redux](https://www.notion.so/6b5a98e81e6f4d7eadb31575cd20ee2a?v=e87d57b7d9324dbf8074e77c84b60174)
   * [Linux](https://www.notion.so/4719cba25f7d49d1939005eb7a1a1d0b?v=630614cb91cc45c18ba379f41e7593e8)
   * [Docker](https://www.notion.so/2a27366dfa9240469fdc47f191c2bf24?v=2c8d4701f0cd44648f05f69749d49cad)
   * [Git](https://www.notion.so/a514dc4535aa41299f369f5943df6498?v=46fca1451ba547d9b381926db694c3b3)
@@ -86,6 +85,14 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ---
 
+### Software Engineering
+
+* [TDD(Test Driven Development)](https://www.notion.so/Observer-Pattern-e35e2bd8bdeb4b88a4b4556a10cb2ac8)
+* [Observer Pattern](https://www.notion.so/Observer-Pattern-e35e2bd8bdeb4b88a4b4556a10cb2ac8)
+* [Dependency Injection](https://functional-action-ad3.notion.site/Dependency-Injection-dbacd1bbff27455ba7a5958372104030)
+
+---
+
 ### Web
 
 * [Critical Rendering Path 1](https://www.notion.so/Critical-Rendering-Path-1-f497d63b474e4c5aab03c92a83e3e652)
@@ -129,6 +136,7 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [Promise](https://www.notion.so/Promise-61097f610bcc4827a3ae4d32df412344)
 * [Debouncing vs Throttling](https://www.notion.so/Debouncing-vs-Throttling-7b83b46cecc04322be68a785f2220ab2)
 * [Intersection Observer API](https://www.notion.so/Intersection-Observer-API-5b62b9bdc4e14ce19e56070d973c1e4c)
+* [이벤트 버블링과 event.currentTarget](https://www.notion.so/event-currentTarget-3382423eb11145188afd451860cb6835)
 
 ---
 
@@ -140,9 +148,6 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 * [Functional Type](https://www.notion.so/Functional-Type-142faca33de5495d933cba05e763afba)
 * [Enum Type](https://www.notion.so/Enum-Type-973f04ca826c4e1eaacab51094dc096b)
 * [Generic](https://www.notion.so/Generic-8fb4bd29e61645b085df8e787704502d)
-* [TS로 React App Tutorial](https://www.notion.so/TS-React-App-Tutorial-99f01980b0ed44a8bd5cdcd729c5bb57)
-* [TS로 React 상태 관리](https://www.notion.so/TS-React-b791094da7394d3b88f7d88e34b01b00)
-* [TS와 Redux](https://www.notion.so/TS-Redux-baa868024c344f7d819f3ad5c0d6f5af)
 
 ---
 
@@ -153,39 +158,13 @@ Today I Learned. inspired by [jbranchaud/til](https://github.com/jbranchaud/til)
 
 ---
 
-### CSS
-
-* [styled-components](https://www.notion.so/styled-components-bb90fab04fb246f5a53d3922f8be52c6)
-* [display](https://www.notion.so/display-8dc86f9cb28a4d1ca29f633b1c9dc186)
-* [position](https://www.notion.so/position-d7a1b04f5d1548faacbc58e002fa0352)
-
----
-
 ### React
 
 * [리액트란?](https://www.notion.so/370c2ef5504d499eba9ad258833aa93c)
 * [웹팩, 바벨 개념](https://www.notion.so/0abd6e423c3542d5a2a2c58527947aef)
 * [createElement, JSX](https://www.notion.so/createElement-JSX-f1442bbe6065440d9158dce483f20c2f)
+* [React의 element가 렌더링되는 방식](https://www.notion.so/React-element-e10c7f65ce784800b58de0a03947f58e)
 * [Element→Component→State](https://www.notion.so/Element-Component-State-031543adb6b444d8b0b04d305adad15f)
-* [Virtual DOM](https://www.notion.so/Virtual-DOM-144bc1ad2a1c4ebc9cfa1206cea71bdc31)
-* [create-react-app](https://www.notion.so/create-react-app-b24bc2dc00944e78be2706feda1ae19e)
-* [CSS in React](https://www.notion.so/CSS-in-React-015f436c8db3417890645a315b9c73da)
-* [Hooks Docs](https://www.notion.so/Hooks-Docs-eb76861b0c924f88aa084dc3e4822e05)
-* [Custom Hook](https://www.notion.so/Custom-Hook-8b497266806b4757989a689f505d37c2)
-* [React Router Docs](https://www.notion.so/React-Router-Docs-ee5f6d1ada214073802b84b6e0799f0a)
-* [React Scaffolding](https://www.notion.so/react-scaffolding-b5860b28eb99465db621a6857f345d3b)
-* [React DnD Docs](https://www.notion.so/React-DnD-Docs-f14635106a454b6c8b5975deddd09861)
-* [Gatsby](https://www.notion.so/Gatsby-2e74ec45c5244e54b3b19e67d4dd100d)
-
----
-
-### Redux
-
-* [MVC ⇒ Flux](https://www.notion.so/MVC-Flux-e3a8835eb7d04ceaabbf0cf6e283176e)
-* [Flux => Redux](https://www.notion.so/Flux-Redux-a733ac76fcf647ac9d9d74b454e4733f)
-* [React-Redux](https://www.notion.so/React-Redux-eb44702cb9a3438c8be841ea00e2516c)
-* [Redux Toolkit](https://www.notion.so/Redux-Toolkit-7e89068f5c18489f8449add21afc4bdc)
-* [middleware](https://www.notion.so/Middleware-7f1e7ef36a1e4b1d86482a212e4bae7a)
 
 ---
 
